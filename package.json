@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@trigger.dev/hono": "^2.3.18",
+    "@trigger.dev/sdk": "^2.3.18"
+  }
+}
